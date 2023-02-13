@@ -5,5 +5,10 @@ small scale to large scale company.
 PPC accepts the employees data from the client in either plain text format (.txt) or csv (.csv) format to
 manage the employee life cycle starting from date of onboarding to date of exit.
 
-# PPC-low-level-design
+# Architecture
+
+![image](https://user-images.githubusercontent.com/13993416/218489001-3d8cbe0e-4a27-47d0-bbe1-725b08414721.png)
+
+PPCProgram class is the main executable file.
+
 
